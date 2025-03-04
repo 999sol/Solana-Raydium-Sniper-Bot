@@ -2,6 +2,10 @@
 
 Unlock the full potential of your trading strategy with Raydium Sniper Bot, the ultimate solution for seamless and automated trading on the Solana blockchain. Designed with speed, intelligence, and ease of use in mind, this tool empowers both novice and seasoned traders to stay ahead in the competitive crypto market.
 
+## video
+
+https://github.com/user-attachments/assets/1d306829-00de-44f5-8a58-5795ff45d80c
+
 ## ScreenShots
 ![raydium 5](https://github.com/user-attachments/assets/5cccc5e1-afae-471b-8729-27ec59720e2d)
 ![sell](https://github.com/user-attachments/assets/a15aca6a-2411-4927-b30f-3122e3c44a35)
@@ -43,6 +47,5 @@ Unlock the full potential of your trading strategy with Raydium Sniper Bot, the 
 
 - [Chat on Telegram](https://t.me/plzbugmenot)
 - [Drop me a mail](mailto:pleasebugmenot.dev@gmail.com)
-- 🎁 Tip jar: `54YAAqshj8BD5WJCsfy9vSCpgK8pC9NqW2cuKPrbUZqp`
 
 Happy sniping! 🎯✨
